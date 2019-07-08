@@ -25,6 +25,13 @@ let filme4 =
     diretor: "Gil Junger"
 }
 
+let filme5 = 
+{
+    name: "O Rei Leão",
+    classificacao: "10",
+    diretor: "Jon Favreau"
+}
+
 
 
 cinema.push(filme1)
